@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM debian:11.2
 
 MAINTAINER Nitrax <nitrax@lokisec.fr>
 
